@@ -18,7 +18,7 @@ jobs:
       - uses: jgierer12/npm-auth-gpr@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Install and Test
+      - name: Install
         run: npm ci
       - name: Publish to GitHub Package (unstable)
         run: ./scripts/publish-to-github.sh
