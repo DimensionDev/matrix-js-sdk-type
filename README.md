@@ -1,4 +1,6 @@
-- Maybe you need @types/matrix-js-sdk (https://github.com/matrix-org/matrix-js-sdk/issues/983#issuecomment-593534506)
+# matrix-js-sdk (typing)
+
+- Maybe you need @types/matrix-js-sdk (<https://github.com/matrix-org/matrix-js-sdk/issues≥/983#issuecomment-593534506>
 
 this package is generated from the `matrix-js-sdk` code base by [generate-matrix-js-sdk-type](https://github.com/Jack-Works/generate-matrix-js-sdk-type).
 
